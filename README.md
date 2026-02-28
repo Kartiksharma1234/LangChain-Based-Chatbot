@@ -152,5 +152,5 @@ This project is licensed under the MIT License. Feel free to use, modify, and sh
 
 ## ✨ Author
 
-Developed by [YourName]  
+Developed by Kartik Sharma  
 GitHub: [https://github.com/Kartiksharma1234](https://github.com/Kartiksharma1234)
